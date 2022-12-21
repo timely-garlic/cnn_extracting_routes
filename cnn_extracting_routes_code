@@ -1,6 +1,6 @@
 # this code uses the code written in this repository & youtube video with a few minor adjustments 
 # https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial118_binary_semantic_segmentation_using_unet.ipynb
-
+# link to data https://drive.google.com/file/d/1Vbv60Bgnpe17VAWrCMWBUyALIsk2_-Jf/view?usp=share_link
 
 # set up the environment
 from tensorflow.keras.utils import normalize
